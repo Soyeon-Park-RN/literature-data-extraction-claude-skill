@@ -1,4 +1,5 @@
 # Literature Data Extraction — Claude Skill
+![For researchers](https://img.shields.io/badge/For-Researchers-grey.svg)
 
 문헌고찰을 위한 논문 데이터 추출을 Claude 안에서 바로 수행하는 스킬입니다. 추출 양식을 미리 준비할 필요 없이, 논문 PDF를 올리면 기본 양식으로 추출한 표를 보여주고 연구설계에 맞는 추가 항목을 제안하며, 확정된 표를 엑셀 파일로 받을 수 있습니다.
 
